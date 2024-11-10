@@ -1,0 +1,4 @@
+repository "CoralCoro_Quest_01/CoralCoro_Quest_01@33260766632665@cloud"
+  path "/"
+    br "/main"
+    co "/main"
